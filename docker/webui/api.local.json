@@ -1,6 +1,5 @@
 {
- 
-  "Observability": {
+   "Observability": {
 
     "Prometheus": {
       "Enabled": false
