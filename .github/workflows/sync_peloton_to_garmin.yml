@@ -15,6 +15,44 @@ on:
   schedule:
     - cron: '0 1 * * *'
 
+"DeviceInfoSettings": {
+        "none": {
+          "name": "fenix 8 - 43mm, AMOLED",
+          "unitId": 3486215058,
+          "productID": 4534,
+          "manufacturerId": 1,
+          "version": {
+            "versionMajor": 13,
+            "versionMinor": 35,
+            "buildMajor": 0,
+            "buildMinor": 0.0
+          }
+        },
+        "cycling": {
+          "name": "fenix 8 - 43mm, AMOLED",
+          "unitId": 3486215058,
+          "productID": 4534,
+          "manufacturerId": 1,
+          "version": {
+            "versionMajor": 13,
+            "versionMinor": 35,
+            "buildMajor": 0,
+            "buildMinor": 0.0
+          }
+        },
+        "rowing": {
+          "name": "fenix 8 - 43mm, AMOLED",
+          "unitId": 3486215058,
+          "productID": 4534,
+          "manufacturerId": 1,
+          "version": {
+            "versionMajor": 13,
+            "versionMinor": 35,
+            "buildMajor": 0,
+            "buildMinor": 0.0
+          }
+        }
+      }
 jobs:
   sync:
     name: 🔄 Sync
